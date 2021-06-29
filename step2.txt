@@ -1,0 +1,143 @@
+python3 calculate2.py -op gen_transform_images -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5
+python3 calculate2.py -op get_transform_images_mid_res -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 
+
+
+python3 calculate2.py -op cal_jsd_marker_cd_time_one -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param2 0 -param3 6500 -dnop zzc -ec none
+python3 calculate2.py -op analysis_jsd_marker_c_time_zero_one -phase one -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param2 0 -param3 6500 -dnop zzc  -ec none
+
+
+python3 calculate2.py -op analysis_deleted_node2 -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one  -ec none
+
+
+python3 calculate2.py -op cal_jsd_marker_cd_zone_time_zero_other_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all  -ec none
+python3 calculate2.py -op analysis_jsd_marker_c_zone_zero_other_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all  -ec none
+
+
+
+python3 calculate2.py -op cal_jsd_marker_cd_zone_time_zero2 -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -cp all  -ec none
+python3 calculate2.py -op analysis_jsd_marker_c_zone_zero2 -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -cp all  -ec none
+
+
+
+
+
+python3 calculate2.py -op cal_zzc_cov -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all  -ec none
+python3 calculate2.py -op analysis_zzc_cov -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all  -ec none
+
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero_inner_all_get_pool_npy -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i -cp all -ec none
+
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i -cp all  -ec none
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all  -ec none
+
+
+python3 calculate2.py -op analysis_pools_jsd_marker_c_zone_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i -cp all  -ec none
+python3 calculate2.py -op analysis_pools_jsd_marker_c_zone_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all  -ec none
+python3 calculate2.py -op cal_io_big_node -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all  -ec none
+
+
+
+
+python3 calculate2.py -op cal_zzc_cov -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all -tt 2  -ec none
+python3 calculate2.py -op analysis_zzc_cov -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all -tt 2  -ec none
+
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero_inner_all_get_pool_npy -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i -cp all -tt 2 -ec none
+
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i -cp all -tt 2  -ec none
+python3 calculate2.py -op analysis_pools_jsd_marker_c_zone_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i -cp all -tt 2  -ec none
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all -tt 2  -ec none
+python3 calculate2.py -op analysis_pools_jsd_marker_c_zone_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all -tt 2  -ec none
+python3 calculate2.py -op cal_io_big_node -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all -tt 2  -ec none
+
+
+python3 calculate2.py -op cal_zzc_cov -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all -tt 3  -ec none
+python3 calculate2.py -op analysis_zzc_cov -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all -tt 3  -ec none
+
+
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero_inner_all_get_pool_npy -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i -cp all -tt 3 -ec none
+
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i -cp all -tt 3  -ec none
+python3 calculate2.py -op analysis_pools_jsd_marker_c_zone_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i -cp all -tt 3  -ec none
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all -tt 3  -ec none
+python3 calculate2.py -op analysis_pools_jsd_marker_c_zone_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all -tt 3  -ec none
+python3 calculate2.py -op cal_io_big_node -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all -tt 3  -ec none
+
+
+
+python3 calculate2.py -op cal_zzc_cov -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all -tt 4  -ec none
+python3 calculate2.py -op analysis_zzc_cov -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all -tt 4  -ec none
+
+
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i -cp all -tt 4  -ec none
+python3 calculate2.py -op analysis_pools_jsd_marker_c_zone_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i -cp all -tt 4  -ec none
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all -tt 4  -ec none
+python3 calculate2.py -op analysis_pools_jsd_marker_c_zone_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all -tt 4  -ec none
+python3 calculate2.py -op cal_io_big_node -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all -tt 4  -ec none
+
+
+
+
+
+python3 calculate2.py -op analysis_deleted_node2 -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param2 0 -param3 1500 -dnop zzc -phase one  -ec none
+
+
+
+
+
+python3 calculate2.py -op cal_zzc_cov -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all -tt 1  -ec none
+python3 calculate2.py -op cal_zzc_cov_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all -tt 1  -ec none
+python3 calculate2.py -op analysis_zzc_cov_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all -tt 1  -ec none
+
+
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i -cp all -tt 1  -ec none
+python3 calculate2.py -op analysis_pools_jsd_marker_c_zone_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i -cp all -tt 1  -ec none
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all -tt 1  -ec none
+python3 calculate2.py -op analysis_pools_jsd_marker_c_zone_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all -tt 1  -ec none
+python3 calculate2.py -op cal_io_big_node -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all -tt 1  -ec none
+
+
+python3 calculate2.py -op cal_zzc_cov -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all -tt 2  -ec none
+
+python3 calculate2.py -op cal_zzc_cov_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all -tt 2  -ec none
+python3 calculate2.py -op analysis_zzc_cov_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all -tt 2  -ec none
+
+
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i -cp all -tt 2  -ec none
+python3 calculate2.py -op analysis_pools_jsd_marker_c_zone_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i -cp all -tt 2  -ec none
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all -tt 2  -ec none
+python3 calculate2.py -op analysis_pools_jsd_marker_c_zone_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all -tt 2  -ec none
+python3 calculate2.py -op cal_io_big_node -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all -tt 2  -ec none
+
+
+python3 calculate2.py -op cal_zzc_cov -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all -tt 3  -ec none
+
+python3 calculate2.py -op cal_zzc_cov_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all -tt 3  -ec none
+python3 calculate2.py -op analysis_zzc_cov_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -cp all -tt 3  -ec none
+
+
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i  -cp all -tt 3  -ec none
+python3 calculate2.py -op analysis_pools_jsd_marker_c_zone_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i -cp all -tt 3  -ec none
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all -tt 3  -ec none
+python3 calculate2.py -op analysis_pools_jsd_marker_c_zone_zero_inner_all -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all -tt 3  -ec none
+python3 calculate2.py -op cal_io_big_node -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -cp all -tt 3  -ec none
+
+
+
+
+python3 calculate2.py -op cal_jsd_marker_cd_zone_time_zero_cov -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -cp all -tt 1 -dnop toc -ec none
+python3 calculate2.py -op analysis_jsd_marker_c_zone_zero_cov -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -cp all -tt 1 -dnop toc -ec none
+
+python3 calculate2.py -op cal_jsd_marker_cd_zone_time_zero_other_inner_all_cov -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -cp all -tt 1 -dnop toc -ec none
+python3 calculate2.py -op analysis_jsd_marker_c_zone_zero_other_inner_all_cov -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -cp all -tt 1 -dnop toc -ec none
+
+
+
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero3 -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i -tt 3
+python3 calculate2.py -op analysis_pools_jsd_marker_c_zone_zero3 -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi i -tt 3
+python3 calculate2.py -op cal_pools_jsd_marker_cd_zone_time_zero3 -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -tt 3
+python3 calculate2.py -op analysis_pools_jsd_marker_c_zone_zero3 -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -tt 3
+
+
+python3 calculate2.py -op partition_vector -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -tt 3
+
+
+python3 net2.py -mt wa -tdir t_norm_relu_11011 -tsop sc -param5 50 -l 5 -param6 0 -param7 6500 -dnop toc -phase one -ioi o -tt 3

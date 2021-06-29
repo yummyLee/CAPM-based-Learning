@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c81cfb2c-9078-4a51-b85a-7c426c1ff5e6" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$get_class_index.coverage" NAME="get_class_index Coverage Results" MODIFIED="1566837942023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$kde.coverage" NAME="kde Coverage Results" MODIFIED="1567583082298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$pic_add_noise2.coverage" NAME="pic_add_noise2 Coverage Results" MODIFIED="1557486131671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$pytorch_alaxnet.coverage" NAME="pytorch-alaxnet Coverage Results" MODIFIED="1556945899796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$cal_kld.coverage" NAME="cal_kld Coverage Results" MODIFIED="1568006811843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$image_enhance.coverage" NAME="image_enhance Coverage Results" MODIFIED="1584464440916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1557316564660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$test.coverage" NAME="test Coverage Results" MODIFIED="1557315557824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$pic_gen.coverage" NAME="pic_gen Coverage Results" MODIFIED="1566614577200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1558964997692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$Twisted_Trial_in_pic_gen2_py.coverage" NAME="Twisted Trial in pic_gen2.py Coverage Results" MODIFIED="1563589950754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$np_random_normal.coverage" NAME="np_random_normal Coverage Results" MODIFIED="1563082940697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$stackingpy.coverage" NAME="stackingpy Coverage Results" MODIFIED="1557229546703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$bn_test.coverage" NAME="bn_test Coverage Results" MODIFIED="1564769391444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$kld.coverage" NAME="kld Coverage Results" MODIFIED="1564797714361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$Image.coverage" NAME="Image Coverage Results" MODIFIED="1567431355808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/PIL" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1557470044844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$pic_gen2.coverage" NAME="pic_gen2 Coverage Results" MODIFIED="1563590168158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$image_quality_test.coverage" NAME="image_quality_test Coverage Results" MODIFIED="1569486908003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$Twisted_Trial_in_alexnet_v1_py.coverage" NAME="Twisted Trial in alexnet_v1.py Coverage Results" MODIFIED="1557229771178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$dl_paper_download.coverage" NAME="dl_paper_download Coverage Results" MODIFIED="1557982281784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1557390250082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$calculate.coverage" NAME="calculate Coverage Results" MODIFIED="1567655026409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$hook.coverage" NAME="hook Coverage Results" MODIFIED="1577352365961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pytorch-alaxnet" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JupyterTrust" id="e51ef444-80ec-4d62-9479-f37d5cb51e14" />
+  <component name="ProjectId" id="1ZZiBqg7eKzC5BHagYZGgcTDBup" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/PycharmProjects/pytorch-alaxnet/test9.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\pytorch-alaxnet\concept_set_0604_2308" />
+      <recent name="D:\PycharmProjects\pytorch-alaxnet\transform_random_test_dir\0" />
+      <recent name="D:\PycharmProjects\pytorch-alaxnet\transform_random_test_dir" />
+      <recent name="D:\PycharmProjects\pytorch-alaxnet" />
+      <recent name="D:\PycharmProjects\pytorch-alaxnet\imagenet-dog2\dog" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\pytorch-alaxnet" />
+      <recent name="D:\PycharmProjects\pytorch-alaxnet\imagenet-dog2" />
+      <recent name="D:\PycharmProjects\pytorch-alaxnet\imagenet-dog1" />
+      <recent name="D:\PycharmProjects\pytorch-alaxnet\imagenet-cat2" />
+      <recent name="D:\PycharmProjects\pytorch-alaxnet\kde_test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_js">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch-alaxnet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_js" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch-alaxnet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_js.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_js2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch-alaxnet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_js2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_js_copy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch-alaxnet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_js_copy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wa_js_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch-alaxnet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wa_js_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytorch-alaxnet" type="Python.Ipnb" factoryName="Jupyter Notebook">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pytorch-alaxnet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.wa_js_analysis" />
+      <item itemvalue="Python.test_js" />
+      <item itemvalue="Python.test_js2" />
+      <item itemvalue="Python.test_js_copy" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_js" />
+        <item itemvalue="Python.test_js_copy" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.test_js2" />
+        <item itemvalue="Python.wa_js_analysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c81cfb2c-9078-4a51-b85a-7c426c1ff5e6" name="Default" comment="" />
+      <created>1556504844689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556504844689</updated>
+      <workItem from="1585052888111" duration="630000" />
+      <workItem from="1585068442446" duration="345000" />
+      <workItem from="1585069222427" duration="1040000" />
+      <workItem from="1585070561558" duration="250000" />
+      <workItem from="1585104861488" duration="99024000" />
+      <workItem from="1585374681295" duration="5313000" />
+      <workItem from="1585385069359" duration="24703000" />
+      <workItem from="1585459520205" duration="48074000" />
+      <workItem from="1585641575645" duration="1876000" />
+      <workItem from="1585709299992" duration="13844000" />
+      <workItem from="1585804322292" duration="9719000" />
+      <workItem from="1585985041007" duration="1240000" />
+      <workItem from="1586093863414" duration="12780000" />
+      <workItem from="1586395368814" duration="16279000" />
+      <workItem from="1586490741483" duration="6073000" />
+      <workItem from="1586622938458" duration="4813000" />
+      <workItem from="1586746752890" duration="3110000" />
+      <workItem from="1586793426900" duration="2917000" />
+      <workItem from="1586833617804" duration="1244000" />
+      <workItem from="1586924752140" duration="2810000" />
+      <workItem from="1586962801824" duration="509000" />
+      <workItem from="1587199161679" duration="3562000" />
+      <workItem from="1587382034292" duration="1273000" />
+      <workItem from="1587455066000" duration="2580000" />
+      <workItem from="1587521425299" duration="20416000" />
+      <workItem from="1587649841530" duration="6278000" />
+      <workItem from="1587706559906" duration="10380000" />
+      <workItem from="1587780015867" duration="13412000" />
+      <workItem from="1587835048792" duration="4001000" />
+      <workItem from="1587841195228" duration="40673000" />
+      <workItem from="1588049121844" duration="43157000" />
+      <workItem from="1588259859381" duration="8103000" />
+      <workItem from="1588424814968" duration="12027000" />
+      <workItem from="1588623785224" duration="1035000" />
+      <workItem from="1588695957992" duration="3751000" />
+      <workItem from="1589112935016" duration="31872000" />
+      <workItem from="1589352235808" duration="4360000" />
+      <workItem from="1589418341577" duration="13063000" />
+      <workItem from="1589512368730" duration="2228000" />
+      <workItem from="1589540313505" duration="1890000" />
+      <workItem from="1589550240932" duration="274000" />
+      <workItem from="1589550527475" duration="2386000" />
+      <workItem from="1589555321207" duration="38623000" />
+      <workItem from="1589956367105" duration="179598000" />
+      <workItem from="1590748150664" duration="72068000" />
+      <workItem from="1590999873114" duration="29600000" />
+      <workItem from="1591174043292" duration="1613000" />
+      <workItem from="1591250879595" duration="65156000" />
+      <workItem from="1591515423647" duration="89156000" />
+      <workItem from="1592019880949" duration="21023000" />
+      <workItem from="1592112348521" duration="10476000" />
+      <workItem from="1592216574401" duration="34924000" />
+      <workItem from="1592706712545" duration="53432000" />
+      <workItem from="1592969961491" duration="127972000" />
+      <workItem from="1593591435511" duration="656000" />
+      <workItem from="1593604293549" duration="1679000" />
+      <workItem from="1593610015512" duration="12461000" />
+      <workItem from="1593934974590" duration="59149000" />
+      <workItem from="1594556019872" duration="3325000" />
+      <workItem from="1594610594256" duration="628000" />
+      <workItem from="1594714269301" duration="27542000" />
+      <workItem from="1595207356724" duration="3066000" />
+      <workItem from="1595395362860" duration="1783000" />
+      <workItem from="1595565688292" duration="2147000" />
+      <workItem from="1595656124155" duration="1023000" />
+      <workItem from="1595676430900" duration="2415000" />
+      <workItem from="1595736605027" duration="35756000" />
+      <workItem from="1596594110227" duration="69280000" />
+      <workItem from="1597043502419" duration="391000" />
+      <workItem from="1597208556224" duration="1459000" />
+      <workItem from="1597210031520" duration="30000" />
+      <workItem from="1597210075821" duration="51000" />
+      <workItem from="1597210140976" duration="5847000" />
+      <workItem from="1597216358236" duration="1121000" />
+      <workItem from="1597217494413" duration="5074000" />
+      <workItem from="1597296552624" duration="5444000" />
+      <workItem from="1597309490719" duration="8181000" />
+      <workItem from="1597391639493" duration="12391000" />
+      <workItem from="1597463325168" duration="74240000" />
+      <workItem from="1597895902812" duration="8479000" />
+      <workItem from="1597973215126" duration="1313000" />
+      <workItem from="1598020939479" duration="3632000" />
+      <workItem from="1598150574414" duration="42449000" />
+      <workItem from="1598422474541" duration="5566000" />
+      <workItem from="1598439978455" duration="33627000" />
+      <workItem from="1598580771812" duration="599000" />
+      <workItem from="1598666277764" duration="195012000" />
+      <workItem from="1599391070257" duration="106438000" />
+      <workItem from="1599901553313" duration="35831000" />
+      <workItem from="1600144119887" duration="7593000" />
+      <workItem from="1600312230001" duration="6207000" />
+      <workItem from="1600432606177" duration="113695000" />
+      <workItem from="1601795724929" duration="6527000" />
+      <workItem from="1602240792665" duration="71361000" />
+      <workItem from="1603198259883" duration="43339000" />
+      <workItem from="1603767557212" duration="157379000" />
+      <workItem from="1604715710151" duration="1339000" />
+      <workItem from="1604837433580" duration="108929000" />
+      <workItem from="1605246773358" duration="471000" />
+      <workItem from="1605247285232" duration="478000" />
+      <workItem from="1605247811624" duration="51000" />
+      <workItem from="1605247980575" duration="84081000" />
+      <workItem from="1605763446345" duration="39650000" />
+      <workItem from="1606276503476" duration="13116000" />
+      <workItem from="1606835495608" duration="43645000" />
+      <workItem from="1607086366304" duration="598000" />
+      <workItem from="1607713933018" duration="3949000" />
+      <workItem from="1608145883539" duration="5520000" />
+      <workItem from="1609270424293" duration="3263000" />
+      <workItem from="1610537510796" duration="2559000" />
+      <workItem from="1611219189944" duration="3004000" />
+      <workItem from="1611901445406" duration="900000" />
+      <workItem from="1612156905619" duration="4036000" />
+      <workItem from="1614266025413" duration="592000" />
+      <workItem from="1614338756314" duration="838000" />
+      <workItem from="1615409092429" duration="11147000" />
+      <workItem from="1615957675330" duration="1226000" />
+      <workItem from="1615973324887" duration="9481000" />
+      <workItem from="1616168307364" duration="1623000" />
+      <workItem from="1616728189870" duration="861000" />
+      <workItem from="1617781235622" duration="5428000" />
+      <workItem from="1617886311652" duration="12704000" />
+      <workItem from="1618627496211" duration="2694000" />
+      <workItem from="1621309962049" duration="651000" />
+      <workItem from="1621436830433" duration="1249000" />
+      <workItem from="1621502482526" duration="1935000" />
+      <workItem from="1621515303698" duration="5914000" />
+      <workItem from="1621667484848" duration="797000" />
+      <workItem from="1621990627783" duration="168000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2005" height="243" key="GridCell.Tab.0.bottom" timestamp="1621668349631">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1663" height="243" key="GridCell.Tab.0.bottom/0.0.1707.920/2560.0.2048.1112@0.0.1707.920" timestamp="1621582406763" />
+    <state width="2005" height="243" key="GridCell.Tab.0.bottom/0.0.1707.920/2560.0.2048.1112@2560.0.2048.1112" timestamp="1621668349631" />
+    <state width="1663" height="358" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1618647055004" />
+    <state width="2005" height="243" key="GridCell.Tab.0.center" timestamp="1621668349631">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1663" height="243" key="GridCell.Tab.0.center/0.0.1707.920/2560.0.2048.1112@0.0.1707.920" timestamp="1621582406763" />
+    <state width="2005" height="243" key="GridCell.Tab.0.center/0.0.1707.920/2560.0.2048.1112@2560.0.2048.1112" timestamp="1621668349631" />
+    <state width="1663" height="358" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1618647055004" />
+    <state width="2005" height="243" key="GridCell.Tab.0.left" timestamp="1621668349631">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1663" height="243" key="GridCell.Tab.0.left/0.0.1707.920/2560.0.2048.1112@0.0.1707.920" timestamp="1621582406763" />
+    <state width="2005" height="243" key="GridCell.Tab.0.left/0.0.1707.920/2560.0.2048.1112@2560.0.2048.1112" timestamp="1621668349631" />
+    <state width="1663" height="358" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1618647055004" />
+    <state width="2005" height="243" key="GridCell.Tab.0.right" timestamp="1621668349631">
+      <screen x="2560" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1663" height="243" key="GridCell.Tab.0.right/0.0.1707.920/2560.0.2048.1112@0.0.1707.920" timestamp="1621582406763" />
+    <state width="2005" height="243" key="GridCell.Tab.0.right/0.0.1707.920/2560.0.2048.1112@2560.0.2048.1112" timestamp="1621668349631" />
+    <state width="1663" height="358" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1618647055004" />
+    <state width="1663" height="296" key="GridCell.Tab.1.bottom" timestamp="1617969831642">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="296" key="GridCell.Tab.1.bottom/0.0.1707.920/2560.0.2048.1112@0.0.1707.920" timestamp="1617969831642" />
+    <state width="1663" height="296" key="GridCell.Tab.1.center" timestamp="1617969831642">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="296" key="GridCell.Tab.1.center/0.0.1707.920/2560.0.2048.1112@0.0.1707.920" timestamp="1617969831642" />
+    <state width="1663" height="296" key="GridCell.Tab.1.left" timestamp="1617969831642">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="296" key="GridCell.Tab.1.left/0.0.1707.920/2560.0.2048.1112@0.0.1707.920" timestamp="1617969831642" />
+    <state width="1663" height="296" key="GridCell.Tab.1.right" timestamp="1617969831642">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="296" key="GridCell.Tab.1.right/0.0.1707.920/2560.0.2048.1112@0.0.1707.920" timestamp="1617969831642" />
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1617952544428">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1617952544428" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test4.py</url>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wa_js_analysis.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pdd_test/pdd_test3.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate2.py</url>
+          <line>3705</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate2.py</url>
+          <line>5188</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate2.py</url>
+          <line>2820</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sogou/t1.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate2.py</url>
+          <line>4507</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate2.py</url>
+          <line>2835</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate2.py</url>
+          <line>5209</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate2.py</url>
+          <line>4533</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate2.py</url>
+          <line>5222</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate2.py</url>
+          <line>2838</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate2.py</url>
+          <line>309</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate2.py</url>
+          <line>2960</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate2.py</url>
+          <line>5412</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate2.py</url>
+          <line>1619</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate2.py</url>
+          <line>2068</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate4.py</url>
+          <line>1469</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate4.py</url>
+          <line>579</line>
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate4.py</url>
+          <line>13190</line>
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate5.py</url>
+          <line>1509</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/calculate4.py</url>
+          <line>3694</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/t_norm_relu_alex_avg_1118/calculate5.py</url>
+          <line>5200</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/t_norm_relu_alex_avg_1118/calculate5.py</url>
+          <line>5513</line>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_std.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$huaweitst20200919.coverage" NAME="huaweitst20200919 Coverage Results" MODIFIED="1600480592997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$fft_test3.coverage" NAME="fft_test3 Coverage Results" MODIFIED="1590400478703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$ct1.coverage" NAME="ct1 Coverage Results" MODIFIED="1617782194587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shopee" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$huawei_test4.coverage" NAME="huawei_test4 Coverage Results" MODIFIED="1600258563611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$t3__1_.coverage" NAME="t3 (1) Coverage Results" MODIFIED="1599969316154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mt" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$t1__1_.coverage" NAME="t1 (1) Coverage Results" MODIFIED="1600346145782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sxf" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$huawei_test7.coverage" NAME="huawei_test7 Coverage Results" MODIFIED="1598445259511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1599295548243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wy" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$t4.coverage" NAME="t4 Coverage Results" MODIFIED="1599900142530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wy" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$cov_analysis.coverage" NAME="cov_analysis Coverage Results" MODIFIED="1593951245406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$duxiaoman.coverage" NAME="duxiaoman Coverage Results" MODIFIED="1600607870223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$huawei_test2.coverage" NAME="huawei_test2 Coverage Results" MODIFIED="1585742585093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$pdd_test3.coverage" NAME="pdd_test3 Coverage Results" MODIFIED="1598965020322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pdd_test" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1617953265875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pdd_test" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$anaysis_concept_set.coverage" NAME="anaysis_concept_set Coverage Results" MODIFIED="1616168562189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$t3.coverage" NAME="t3 Coverage Results" MODIFIED="1599914432670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vivo" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$image_enhance.coverage" NAME="image_enhance Coverage Results" MODIFIED="1618647054993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$huawei_test5.coverage" NAME="huawei_test5 Coverage Results" MODIFIED="1592642035087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$js.coverage" NAME="js Coverage Results" MODIFIED="1589273380696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$huawei_test.coverage" NAME="huawei_test Coverage Results" MODIFIED="1585741523636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$test_order.coverage" NAME="test_order Coverage Results" MODIFIED="1590225669361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1599304645532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wy" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$fft_test2.coverage" NAME="fft_test2 Coverage Results" MODIFIED="1591323936591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$pdd_test2.coverage" NAME="pdd_test2 Coverage Results" MODIFIED="1598961357996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pdd_test" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$thread_test.coverage" NAME="thread_test Coverage Results" MODIFIED="1585141158823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$test_js_copy.coverage" NAME="test_js_copy Coverage Results" MODIFIED="1621580920987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$t2.coverage" NAME="t2 Coverage Results" MODIFIED="1600347488511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sxf" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$huaweitest_202009192.coverage" NAME="huaweitest_202009192 Coverage Results" MODIFIED="1600491131905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$partition_zone_to_time.coverage" NAME="partition_zone_to_time Coverage Results" MODIFIED="1591774427143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$calculate2.coverage" NAME="calculate2 Coverage Results" MODIFIED="1598966992282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$test_std.coverage" NAME="test_std Coverage Results" MODIFIED="1615982471318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$pic_gen.coverage" NAME="pic_gen Coverage Results" MODIFIED="1592464015496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$pic_gen2.coverage" NAME="pic_gen2 Coverage Results" MODIFIED="1585486186232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$mc.coverage" NAME="mc Coverage Results" MODIFIED="1588343748796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$huawei_test6.coverage" NAME="huawei_test6 Coverage Results" MODIFIED="1598443366522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$test_js2.coverage" NAME="test_js2 Coverage Results" MODIFIED="1621568459850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$test_acc.coverage" NAME="test_acc Coverage Results" MODIFIED="1615975161500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$t2__1_.coverage" NAME="t2 (1) Coverage Results" MODIFIED="1600434041250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pingan" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$bet.coverage" NAME="bet Coverage Results" MODIFIED="1617989127623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$ct3.coverage" NAME="ct3 Coverage Results" MODIFIED="1617785981602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shopee" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$sina.coverage" NAME="sina Coverage Results" MODIFIED="1599998512823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$test.coverage" NAME="test Coverage Results" MODIFIED="1621580422574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$huyi.coverage" NAME="huyi Coverage Results" MODIFIED="1616168732653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$calculate_zn.coverage" NAME="calculate_zn Coverage Results" MODIFIED="1605212615629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$analysis_mean_std_cv.coverage" NAME="analysis_mean_std_cv Coverage Results" MODIFIED="1590376629898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1609272489424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$test_range.coverage" NAME="test_range Coverage Results" MODIFIED="1591281508110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$test_js.coverage" NAME="test_js Coverage Results" MODIFIED="1621668288963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$t1__2_.coverage" NAME="t1 (2) Coverage Results" MODIFIED="1600090789541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/58tc" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$test_js3.coverage" NAME="test_js3 Coverage Results" MODIFIED="1609272473270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$test8.coverage" NAME="test8 Coverage Results" MODIFIED="1588495289611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$wa_js_analysis.coverage" NAME="wa_js_analysis Coverage Results" MODIFIED="1621515343426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$huawei_test3.coverage" NAME="huawei_test3 Coverage Results" MODIFIED="1585746073008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$pdd_test.coverage" NAME="pdd_test Coverage Results" MODIFIED="1598960496423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pdd_test" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$fft_test4.coverage" NAME="fft_test4 Coverage Results" MODIFIED="1591321471993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$fft_test.coverage" NAME="fft_test Coverage Results" MODIFIED="1591016619531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$reverse_gif.coverage" NAME="reverse_gif Coverage Results" MODIFIED="1614338825635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_alaxnet$calculate5.coverage" NAME="calculate5 Coverage Results" MODIFIED="1605062471504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
